@@ -134,15 +134,15 @@ sampling of potentially good ideas that are not in scope for Swift
 
 ## Development minor version:  Swift 2.2
 
-Expected release date: Spring 2016
+Release date: March 21, 2016
 
-This release will focus on fixing bugs, improving
+This release focused on fixing bugs, improving
 quality-of-implementation (QoI) with better warnings and diagnostics,
-improving compile times, and improving performance.  It may also put
+improving compile times, and improving performance.  It also put
 some finishing touches on features introduced in Swift 2.0, and
 include some small additive features that don't break Swift code or
 fundamentally change the way Swift is used. As a step toward Swift
-3.0, it will introduce warnings about upcoming source-incompatible
+3.0, it introduced warnings about upcoming source-incompatible
 changes in Swift 3.0 so that users can begin migrating their code
 sooner.
 
